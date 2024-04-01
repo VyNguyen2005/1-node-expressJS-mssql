@@ -1,0 +1,8 @@
+SELECT [eventId]
+        ,[eventTitle]
+        ,[eventDescription]
+        ,[startDate]
+        ,[endDate]
+        ,[avenue]
+        ,[maxMembers]
+from [dbo].[events]
